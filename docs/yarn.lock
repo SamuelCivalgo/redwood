@@ -4658,7 +4658,7 @@ __metadata:
     clsx: 1.2.1
     react: 17.0.2
     react-dom: 17.0.2
-    react-player: 2.11.0
+    react-player: 2.11.1
     typescript: 4.9.5
   languageName: unknown
   linkType: soft
@@ -8550,9 +8550,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-player@npm:2.11.0":
-  version: 2.11.0
-  resolution: "react-player@npm:2.11.0"
+"react-player@npm:2.11.1":
+  version: 2.11.1
+  resolution: "react-player@npm:2.11.1"
   dependencies:
     deepmerge: ^4.0.0
     load-script: ^1.0.0
@@ -8561,7 +8561,7 @@ __metadata:
     react-fast-compare: ^3.0.1
   peerDependencies:
     react: ">=16.6.0"
-  checksum: 9e6dda0ecfe323d0620c55cd9f550ba15325c5817e1297f24422f8052903b646359539236a770675c662915504628a1fc2f89a4b25b7ef2af103a4f3a5c63eb8
+  checksum: 68d51dc92c3ebecf8054599630d1409d14c7988a8e1221d237ab2c83483e0ca4eb712d22f1ac875b49d890a73026dc473ff30b59a51abc69f6297030176db4a3
   languageName: node
   linkType: hard
 
